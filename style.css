@@ -37,3 +37,7 @@
   background-color: #a4bc46;
   color: #fff;
 }
+/* added card img bg */
+.card-img-bg {
+  background-color: #f1f1f1;
+}
